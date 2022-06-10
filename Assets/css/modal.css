@@ -1,0 +1,37 @@
+#input-nome {
+    border: 2px solid #FFC32D;
+    border-radius: 12px;
+}
+
+#input-habilidades {
+    border: 2px solid #FFC32D;
+    border-radius: 12px;
+}
+
+label {
+    font-weight: 600;
+}
+
+.btn-editar {
+    background-color: #FFC32D;
+    border-radius: 18px;
+}
+
+.btn-editar span {
+    color: white;
+    font-weight: 600;
+}
+
+.btn-editar:hover {
+    background-color: #f3ae00;
+}
+
+.btn-cancelar {
+    border-color: #FFC32D;
+    background-color: white;
+}
+
+.btn-cancelar span {
+    color: #f3ae00;
+    font-weight: 600;
+}

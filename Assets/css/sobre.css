@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+#bg-02 {
+    background-image: url("../img/Bg-02-fachada-amarela.png");
+    background-repeat: repeat-y;
+    background-size: cover;
+    width: 100%;
+}
+
+#bg-03 {
+    width: 100%;
+}
+
+#bg-04 {
+    background-image: url("../img/Bg-04-fachada-verde.png");
+    background-repeat: repeat-y;
+    background-size: cover;
+    width: 100%;
+}
+
+#bg-05 {
+    width: 100%;
+}
+
+#bg-06 {
+    background-image: url("../img/Bg-06-fachada-vermelha.png");
+    background-repeat: repeat-y;
+    background-size: cover;
+    width: 100%;
+}
+
+h2, p, h5 {
+    color: white;
+}
+
+#bg-sobre{
+    background-color: var(--color-yellow);
+}
+
+span{
+    font-weight: bold;
+}
+
+.it{
+    font-style: italic;
+}
+
+
+
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  :root {
+    --color-white: #fff;
+    --color-gray: #767676;
+    --color-yellow: #ffc32d;
+  }
+  
+  a {
+    list-style-type: none;
+    text-decoration: none;
+    color: unset;
+  }
+  
+  .font{
+    font-family: 'Inter', sans-serif;
+  }
